@@ -6,6 +6,7 @@ connection: "mc_sql_looker"
 
 include: "/views/emp_sal_viewSQLServer.view.lkml"
 include: "/views/expence.view.lkml"
+#include: "mc_dashboard.dashboard.lookml"
 
 # # Select the views that should be a part of this model,
 # # and define the joins that connect them together.
