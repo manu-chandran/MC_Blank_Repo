@@ -7,7 +7,7 @@ connection:"mc_looker_redshift"
 include: "/views/dept.view.lkml"
 include: "/views/emp_sal_viewSQLServer.view.lkml"
 include: "/views/expence.view.lkml"
-#include: "/dashboard/mc_dashboard.dashboard.lkml"
+include: "/mc_dashboard_multiple.dashboard.lookml"
 #include: "/mc_models/mc_model_2.model.lkml"
 
 # # Select the views that should be a part of this model,

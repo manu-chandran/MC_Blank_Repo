@@ -1,5 +1,5 @@
-- dashboard: mc_dashboard
-  title: mc_dashboard
+- dashboard: mc_dashboard_multiple
+  title: mc dashboard multiple
   layout: newspaper
   preferred_viewer: dashboards-next
   description: ''
